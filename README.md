@@ -1,4 +1,4 @@
-[![MasterHead](https://c4.wallpaperflare.com/wallpaper/766/754/564/wall-e-pixar-animation-studios-disney-movies-wallpaper-preview.jpg)
+![MasterHead](https://c4.wallpaperflare.com/wallpaper/766/754/564/wall-e-pixar-animation-studios-disney-movies-wallpaper-preview.jpg)
 
 <h1 align="center">Hi 👋, I'm Taha Buğra Çiçek</h1>
 
