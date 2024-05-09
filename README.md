@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on **NFT-Based Blockchain-Focused Security System in the Metaverse**
 
+- 🔭 I’m currently working on **ChatBox**
+
 - 📫 How to reach me **tahabugracck@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
