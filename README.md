@@ -1,7 +1,6 @@
 ![MasterHead](https://c4.wallpaperflare.com/wallpaper/766/754/564/wall-e-pixar-animation-studios-disney-movies-wallpaper-preview.jpg)
 
 <h1 align="center">Hi 👋, I'm Taha Buğra Çiçek</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahabugracck&label=Profile%20views&color=0e75b6&style=flat" alt="tahabugracck" /> </p>
 
 - 🔭 I’m currently working on **deepfake detection**
 
@@ -24,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahabugracck&show_icons=true&locale=en" alt="tahabugracck" /></p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahabugracck&label=Profile%20views&color=0e75b6&style=flat" alt="tahabugracck" /> </p>
