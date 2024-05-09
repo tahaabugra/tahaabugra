@@ -24,6 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahabugracck&show_icons=true&locale=en" alt="tahabugracck" /></p>
 
 
-
-[![](https://visitcount.itsvg.in/api?id=tahaabugra&icon=0&color=0)](https://visitcount.itsvg.in)
-
